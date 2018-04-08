@@ -15,11 +15,11 @@ matplotlib==2.1.2
 
 ### 使用：  
 `pip install -r requirements.txt`
-歌手id号获取示范（红圈内）：   
-![金玟岐的id号](http://ww1.sinaimg.cn/large/005LvakSly1fq5l0aebwgj30e009tacf.jpg)   
-修改Config.py中的参数：  
-`SINGER = 893259           # 歌手id号`
-配置完后：  
+歌手id号获取示范（红圈内）：     
+![金玟岐的id号](http://ww1.sinaimg.cn/large/005LvakSly1fq5l0aebwgj30e009tacf.jpg)     
+修改Config.py中的参数：   
+`SINGER = 893259           # 歌手id号 `        
+配置完后：     
 `python run.py`
 
 

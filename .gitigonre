@@ -1,2 +1,4 @@
-output/
-lyrics/
+*.txt
+!requirements.txt
+!stop_words.txt
+*.png
